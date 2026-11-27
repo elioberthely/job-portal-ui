@@ -1,0 +1,1 @@
+https://github.com/eazybytes/job-portal-ui/tree/main
